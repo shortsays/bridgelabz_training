@@ -15,7 +15,7 @@ public class swap{
 
         a = a + b;
         b = a - b;
-        a =a - b;
+        a = a - b;
 
         System.out.println("After Swapping First Numbr is : " + a + " and Second Number is : " + b);
 
